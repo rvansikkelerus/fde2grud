@@ -9,7 +9,7 @@
     <title>Server Error</title>
 </head>
 <body>
-<a href="https://www.kledingbank-zeeland.nl/">
+<a href="https://peaceful-fortress-00584.herokuapp.com/">
     <img style="width: 150px; height: 60px;" src="/img/logo.png">
 </a>
 <h1 style="text-align: center; font-weight: bold; font-size: 100px;">500</h1>
