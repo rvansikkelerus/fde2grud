@@ -15,7 +15,7 @@
 <h1 style="text-align: center; font-weight: bold; font-size: 100px; color: red;">404</h1>
 <h2 style="text-align: center; font-size: 30px;">Sorry, het ligt niet aan jou, maar aan ons...<br></h2>
 <a href="/">
-    <h1 style="text-align: center; font-weight: bold; font-size: 60px; color: greenyellow;">>Snel, terug naar de bewoonde wereld!<</h1>
+    <h1 style="text-align: center; font-weight: bold; font-size: 60px; color: greenyellow;">>Snel, terug naar de bewoofffffnde wereld!<</h1>
 </a>
 <div class="box">
     <img  src="/img/error-icon.png" alt="Error Icon">
@@ -23,4 +23,4 @@
 
 </body>
 </html>
-{{--style="display: block; text-align: center;"--}}
+
