@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('content')
-    <h1 style="font-size: 30px; font-weight: bold; text-align: center;">Werknemer</h1>
+    <h1 style="font-size: 30px; font-weight: bold; text-align: center;">GGD portaal</h1>
 <section class="section is-medium">
 
     <nav class="level">
@@ -16,7 +16,7 @@
         <div class="level-item has-text-centered">
             <a href="/registration">
             <div class="box">
-                <p class="heading">Klant</p>
+                <p class="heading">Patiënten</p>
                 <img src="/img/user-icon.png">
               </div>
             </a>
