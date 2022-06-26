@@ -18,8 +18,9 @@
     <h1 style="text-align: center; font-weight: bold; font-size: 60px; color: greenyellow;">>Snel, terug naar de bewoonde wereld!<</h1>
 </a>
 <div class="box">
-    <img style="display: block; text-align: center;" src="/img/error-icon.png" class="center" alt="Error Icon">
+    <img  src="/img/error-icon.png" alt="Error Icon">
 </div>
 
 </body>
 </html>
+{{--style="display: block; text-align: center;"--}}
