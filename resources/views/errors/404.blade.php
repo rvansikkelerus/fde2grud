@@ -17,13 +17,7 @@
 <a href="/">
     <h1 style="text-align: center; font-weight: bold; font-size: 60px; color: greenyellow;">>Snel, terug naar de bewoonde wereld!<</h1>
 </a>
-<div class="box">
-    <img  src="/img/error-icon.png" alt="Error Icon">
-</div>
-<div class="center">
-    <h1>H1</h1>
-    <img src="/img/error-icon.png"alt="Error Icon>
-</div>
+
 
 </body>
 </html>
