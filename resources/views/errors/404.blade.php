@@ -9,7 +9,7 @@
     <title>Not Found</title>
 </head>
 <body>
-<a href="https://www.kledingbank-zeeland.nl/">
+<a href="https://peaceful-fortress-00584.herokuapp.com/">
 <img style="width: 150px; height: 60px;" src="/img/logo.png">
 </a>
 <h1 style="text-align: center; font-weight: bold; font-size: 100px; color: red;">404</h1>
@@ -17,6 +17,6 @@
 <a href="/">
     <h1 style="text-align: center; font-weight: bold; font-size: 60px; color: greenyellow;">>Snel, terug naar de bewoonde wereld!<</h1>
 </a>
-<img style="display: block; text-align: center;" src="/img/error-icon.png" alt="Error Icon">
+<img style="display: block; text-align: center;" src="/img/error-icon.png" class="center" alt="Error Icon">
 </body>
 </html>
