@@ -6,7 +6,7 @@
         <button type="submit" class='button is-link'>Ga terug</button>
     </form>
     <form action="/registration/create">
-        <button type="submit" class='button is-link'>Klant aanmaken</button>
+        <button type="submit" class='button is-link'>Patiënt aanmelden</button>
     </form>
 
     <table class="table">

@@ -9,7 +9,7 @@
 
         <div class="mt-4">
             <input type="radio" id="customer" name="function" value="customer">
-            <label for="customer">Klant</label><br>
+            <label for="customer">Patiënt</label><br>
             <input type="radio" id="werknemer" name="function" value="werknemer">
             <label for="werknemer">Werknemer</label><br>
             <input type="radio" id="admin" name="function" value="admin">

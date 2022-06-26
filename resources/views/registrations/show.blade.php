@@ -11,7 +11,7 @@
         action="/registration/{{ $registration->id }}/email"
 
         >@csrf
-        <button type="submit" class='button is-link'>Kalender uitnodiging versturen</button>
+        <button type="submit" class='button is-link'>Uitnodiging versturen</button>
     </form>
 
     <table class="table">

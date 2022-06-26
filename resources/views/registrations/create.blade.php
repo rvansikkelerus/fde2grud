@@ -4,7 +4,7 @@
 
     <div id='wrapper'>
         <div id='page' class='container'>
-            <h1 class='has-text-weight-bold is-size-4'>Klant Aanmaken</h1>
+            <h1 class='has-text-weight-bold is-size-4'>Patiënt aanmelden</h1>
 
             <form method='POST' action="/registration">
                 @csrf
