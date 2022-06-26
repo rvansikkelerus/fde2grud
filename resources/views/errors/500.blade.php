@@ -17,6 +17,6 @@
 <a href="/">
     <h1 style="text-align: center; font-weight: bold; font-size: 60px; color: greenyellow;">>Snel, terug naar de bewoonde wereld!<</h1>
 </a>
-<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="/img/broken.png" alt="Broken">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="/img/broken.PNG" alt="Broken">
 </body>
 </html>
