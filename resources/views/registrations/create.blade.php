@@ -138,7 +138,9 @@
                             type='text'
                             name='email'
                             id='email'
+                            placeholder='Enter First Name'
                             value='{{old('email')}}'>
+
 
                         @error('email')
                         <p class="help is-danger">{{$errors->first('email')}}</p>
