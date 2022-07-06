@@ -109,7 +109,7 @@
                             type='text'
                             name='stad'
                             id='stad'
-                            placeholder='Stad'
+                            placeholder='b.v. Middelburg'
                             value='{{old('stad')}}'>
 
                         @error('stad')
@@ -127,7 +127,7 @@
                             type='text'
                             name='verwijzer'
                             id='verwijzer'
-                            placeholder=' B.v. Dr. Jakobsen'
+                            placeholder=' b.v. Dr. Jakobsen'
                             value='{{old('verwijzer')}}'>
 
                         @error('verwijzer')
