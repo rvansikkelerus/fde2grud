@@ -73,7 +73,7 @@
                             type='text'
                             name='postcode'
                             id='postcode'
-                            placeholder='b.v. 9000 DC'
+                            placeholder='b.v. 9000DC'
                             value='{{old('postcode')}}'>
 
                         @error('postcode')
@@ -127,7 +127,7 @@
                             type='text'
                             name='verwijzer'
                             id='verwijzer'
-                            placeholder='Doorverwezen door b.v. Dr. Jakobsen'
+                            placeholder=' B.v. Dr. Jakobsen'
                             value='{{old('verwijzer')}}'>
 
                         @error('verwijzer')
@@ -145,7 +145,7 @@
                             type='text'
                             name='email'
                             id='email'
-                            placeholder='e-mail@adress.nl'
+                            placeholder='b.v. e-mail@adress.nl'
                             value='{{old('email')}}'>
 
 
