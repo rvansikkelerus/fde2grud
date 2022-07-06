@@ -18,6 +18,7 @@
                             type='text'
                             name='voornaam'
                             id='voornaam'
+                            placeholder='b.v. Harold'
                             value='{{old('voornaam')}}'>
 
                         @error('voornaam')
@@ -35,6 +36,7 @@
                             type='text'
                             name='achternaam'
                             id='achternaam'
+                            placeholder='b.v. Klaassen'
                             value='{{old('achternaam')}}'>
 
                         @error('achternaam')
@@ -53,6 +55,7 @@
                             type='text'
                             name='geslacht'
                             id='geslacht'
+                            placeholder='b.v. man'
                             value='{{old('geslacht')}}'>
 
                         @error('geslacht')
@@ -70,6 +73,7 @@
                             type='text'
                             name='postcode'
                             id='postcode'
+                            placeholder='b.v. 9000 DC'
                             value='{{old('postcode')}}'>
 
                         @error('postcode')
@@ -87,6 +91,7 @@
                             type='text'
                             name='adres'
                             id='adres'
+                            placeholder='b.v. Pintelaan 1'
                             value='{{old('adres')}}'>
 
                         @error('adres')
@@ -104,6 +109,7 @@
                             type='text'
                             name='stad'
                             id='stad'
+                            placeholder='Stad'
                             value='{{old('stad')}}'>
 
                         @error('stad')
@@ -121,6 +127,7 @@
                             type='text'
                             name='verwijzer'
                             id='verwijzer'
+                            placeholder='Doorverwezen door b.v. Dr. Jakobsen'
                             value='{{old('verwijzer')}}'>
 
                         @error('verwijzer')
@@ -138,7 +145,7 @@
                             type='text'
                             name='email'
                             id='email'
-                            placeholder='Enter First Name'
+                            placeholder='e-mail@adress.nl'
                             value='{{old('email')}}'>
 
 
