@@ -18,7 +18,7 @@
                             type='text'
                             name='voornaam'
                             id='voornaam'
-                            placeholder='b.v. Harold'
+                            placeholder='bijv. Harold'
                             value='{{old('voornaam')}}'>
 
                         @error('voornaam')
@@ -36,7 +36,7 @@
                             type='text'
                             name='achternaam'
                             id='achternaam'
-                            placeholder='b.v. Klaassen'
+                            placeholder='bijv. Klaassen'
                             value='{{old('achternaam')}}'>
 
                         @error('achternaam')
@@ -55,7 +55,7 @@
                             type='text'
                             name='geslacht'
                             id='geslacht'
-                            placeholder='b.v. man'
+                            placeholder='bijv. man'
                             value='{{old('geslacht')}}'>
 
                         @error('geslacht')
@@ -73,7 +73,7 @@
                             type='text'
                             name='postcode'
                             id='postcode'
-                            placeholder='b.v. 9000DC'
+                            placeholder='bijv. 9000DC'
                             value='{{old('postcode')}}'>
 
                         @error('postcode')
@@ -91,7 +91,7 @@
                             type='text'
                             name='adres'
                             id='adres'
-                            placeholder='b.v. Pintelaan 1'
+                            placeholder='bijv. Pintelaan 1'
                             value='{{old('adres')}}'>
 
                         @error('adres')
@@ -109,7 +109,7 @@
                             type='text'
                             name='stad'
                             id='stad'
-                            placeholder='b.v. Middelburg'
+                            placeholder='bijv. Middelburg'
                             value='{{old('stad')}}'>
 
                         @error('stad')
@@ -127,7 +127,7 @@
                             type='text'
                             name='verwijzer'
                             id='verwijzer'
-                            placeholder=' b.v. Dr. Jakobsen'
+                            placeholder=' bijv. Dr. Jakobsen'
                             value='{{old('verwijzer')}}'>
 
                         @error('verwijzer')
@@ -137,7 +137,7 @@
                 </div>
 
                 <div class='field'>
-                    <label class='label' for='email'>Email</label>
+                    <label class='label' for='email'>E-mail</label>
 
                     <div class='control'>
                         <input
@@ -145,7 +145,7 @@
                             type='text'
                             name='email'
                             id='email'
-                            placeholder='b.v. e-mail@adress.nl'
+                            placeholder='bijv. e-mail@adres.nl'
                             value='{{old('email')}}'>
 
 
