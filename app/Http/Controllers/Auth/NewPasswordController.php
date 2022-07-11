@@ -38,9 +38,9 @@ class NewPasswordController extends Controller
             'password' => 'required|string|confirmed|min:8',
         ]);
 
-        // Here we will attempt to reset the user's password. If it is successful we
+        // Here it will attempt to reset the user's password. If it is successful it
         // will update the password on an actual user model and persist it to the
-        // database. Otherwise we will parse the error and return the response.
+        // database. Otherwise it will parse the error and return the response.
         $status = Password::reset(
             $request->only('email', 'password', 'password_confirmation', 'token'),
             function ($user) use ($request) {
@@ -53,8 +53,8 @@ class NewPasswordController extends Controller
             }
         );
 
-        // If the password was successfully reset, we will redirect the user back to
-        // the application's home authenticated view. If there is an error we can
+        // If the password was successfully reset, it will redirect the user back to
+        // the application's home authenticated view. If there is an error it can
         // redirect them back to where they came from with their error message.
         return $status == Password::PASSWORD_RESET
                     ? redirect()->route('login')->with('status', __($status))
